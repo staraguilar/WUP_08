@@ -58,6 +58,12 @@ summary.lm(ourchest)
 ```
 
 The order from the worst to best is weight, neck, chest.
+  
+weight:RSE:5.432, ARs:0.7423
+  
+neck:RSE:5.376 ARs: 0.7476
+  
+chest: RSE:4.939 ARs: 0.7869
 
 
 ```{r}
